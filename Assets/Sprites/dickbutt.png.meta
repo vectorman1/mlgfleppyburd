@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: dfafba2fb0fc4e34eb3f4fd398dbc89f
+timeCreated: 1430419481
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dickbutt_0
+    21300002: dickbutt_1
+    21300004: dickbutt_2
+    21300006: dickbutt_3
+    21300008: dickbutt_4
+    21300010: dickbutt_5
+    21300012: dickbutt_6
+    21300014: dickbutt_7
+    21300016: dickbutt_8
+    21300018: dickbutt_9
+    21300020: dickbutt_10
+    21300022: dickbutt_11
+    21300024: dickbutt_12
+    21300026: dickbutt_13
+    21300028: dickbutt_14
+    21300030: dickbutt_15
+    21300032: dickbutt_16
+    21300034: dickbutt_17
+    21300036: dickbutt_18
+    21300038: dickbutt_19
+    21300040: dickbutt_20
+    21300042: dickbutt_21
+    21300044: dickbutt_22
+    21300046: dickbutt_23
+    21300048: dickbutt_24
+    21300050: dickbutt_25
+    21300052: dickbutt_26
+    21300054: dickbutt_27
+    21300056: dickbutt_28
+    21300058: dickbutt_29
+    21300060: dickbutt_30
+    21300062: dickbutt_31
+    21300064: dickbutt_32
+    21300066: dickbutt_33
+    21300068: dickbutt_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dickbutt_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 4
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 5
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_16
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_17
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_18
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 4
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_21
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_22
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_23
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_24
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 3
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_25
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_26
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_27
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 5
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_28
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_29
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 6
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_30
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 4
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_31
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_32
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 5
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_33
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 4
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dickbutt_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
